@@ -1,0 +1,83 @@
+{
+  "Enrollment": [
+    {
+      "id": 3,
+      "name": "Radha",
+      "username": "sam",
+      "email": "Radha@gmail.com",
+      "phone": "8765345678"
+    },
+    {
+      "name": "xyz",
+      "email": "xyz@gmail.com",
+      "phone": "8765432987",
+      "id": 4
+    },
+    {
+      "name": "pranit argade",
+      "email": "pranit@gmail.com",
+      "phone": "8765432345",
+      "id": 5
+    }
+  ],
+  "course": [
+    {
+      "coursename": "React js",
+      "coursefee": "10,000/-",
+      "courseduration": "5 Month",
+      "id": 2
+    },
+    {
+      "coursename": "Graphic Design",
+      "coursefee": "25000/-",
+      "courseduration": "6 Month",
+      "id": 4
+    },
+    {
+      "coursename": "Mern Stack",
+      "coursefee": "20000/-",
+      "courseduration": "6 Month",
+      "id": 5
+    },
+    {
+      "coursename": "Angular js",
+      "coursefee": "30000/-",
+      "courseduration": "6 Month",
+      "id": 6
+    }
+  ],
+  "branch": [
+    {
+      "Bname": "hematite infotech",
+      "Baddress": "chandannagar",
+      "Bcontact": "8765432500",
+      "id": 1
+    },
+    {
+      "Bname": "Hematite Infotech",
+      "Baddress": "Sambhajinagar",
+      "Bcontact": "9876543456",
+      "id": 2
+    }
+  ],
+  "User": [
+    {
+      "UserName": "sayali",
+      "UserPass": "---",
+      "UserContact": "8765432500",
+      "UserAddress": "wagholi,pune",
+      "UserPost": "Senior Trainer",
+      "UserBranch": "chandannagar",
+      "id": 1
+    },
+    {
+      "UserName": "Panchshil Sir",
+      "UserPass": "---",
+      "UserContact": "876543456",
+      "UserAddress": "chandannagar",
+      "UserPost": "senior developer",
+      "UserBranch": "chandannagar",
+      "id": 2
+    }
+  ]
+}
