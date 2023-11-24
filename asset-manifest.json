@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/admin_panel/static/css/main.fd74e53a.css",
+    "main.js": "/admin_panel/static/js/main.213b1dd4.js",
+    "static/js/787.1cd31a9e.chunk.js": "/admin_panel/static/js/787.1cd31a9e.chunk.js",
+    "static/media/Aarti p pabale.png": "/admin_panel/static/media/Aarti p pabale.10f2fe732849fef3f7ea.png",
+    "index.html": "/admin_panel/index.html",
+    "main.fd74e53a.css.map": "/admin_panel/static/css/main.fd74e53a.css.map",
+    "main.213b1dd4.js.map": "/admin_panel/static/js/main.213b1dd4.js.map",
+    "787.1cd31a9e.chunk.js.map": "/admin_panel/static/js/787.1cd31a9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd74e53a.css",
+    "static/js/main.213b1dd4.js"
+  ]
+}
